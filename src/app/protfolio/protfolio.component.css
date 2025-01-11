@@ -48,9 +48,11 @@ margin-top: 130px;
   right:20px ;
 }
 
-img:hover{
+.imgAbdo:hover{
   opacity: 0.5;
   transition: all 0.3s;
+  background-color: #007bff;
+
 }
 
 

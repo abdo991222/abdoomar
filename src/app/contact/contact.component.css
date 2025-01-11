@@ -50,5 +50,15 @@ background-color: #1ABC9C;
 border:1 solid #1ABC9C;
 color: #fff;
 }
+input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #eee;
+}
 
 
+input:focus{
+  outline: none;
+  box-shadow: none;
+}
